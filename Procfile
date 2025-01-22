@@ -1,1 +1,1 @@
-web: gunicorn my_project.wsgi
+web: gunicorn read_with_me.wsgi
