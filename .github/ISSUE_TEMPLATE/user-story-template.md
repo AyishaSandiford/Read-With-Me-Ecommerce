@@ -9,7 +9,7 @@ assignees: AyishaSandiford
 
 As a **role** I can **capability** so that **received benefit**
 
-**Acceptance criteria**
+### Acceptance criteria 
 
 - Acceptance criteria 1
 
@@ -17,7 +17,7 @@ As a **role** I can **capability** so that **received benefit**
 
 - Acceptance criteria 3
 
-**Task**
+### Tasks
 
 - [ ] 
 
