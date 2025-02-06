@@ -97,6 +97,7 @@ LOGIN_REDIRECT_URL = '/'
 
 WSGI_APPLICATION = 'read_with_me.wsgi.application'
 
+
     
 DATABASES = {
      'default': dj_database_url.parse(os.environ.get("DATABASE_URL"))
